@@ -1,7 +1,7 @@
 # Ico
 
 ## Standardise icon names across different icon libraries.
-**Ico** is an open-source repository dedicated to providing a unified naming convention for icons sourced from various popular icon libraries. The goal is to standardise icon names across different sets, making it easier for developers and designers to use and switch between multiple icon libraries without worrying about inconsistent naming ✨.
+**Ico** is an open-source project mapping icon sets from various popular libraries into an unified naming convention. The goal is to standardise icon names across different sets, making it easier for developers and designers to use and switch between multiple icon libraries without worrying about inconsistent naming ✨.
 
 
 ## Supported Icon Libraries
@@ -13,11 +13,11 @@
 
 
 ## Dependency
-❤️ Currently uses [tailwindcss-icons](https://github.com/egoist/tailwindcss-icons), read their guide to setup it.
+❤️ Currently it is provided as a React component and uses [tailwindcss-icons](https://github.com/egoist/tailwindcss-icons), read their guide to setup it.
 
 
 ## Usage
-💡 To use **Ico** in your project, simply download or copy the [folder src/ico](src/ico) inside your project, import **Ico** and refer to the standardised names for icons as defined in the [map](src/ico/map). 
+💡 To use **Ico** in your project, simply download or copy the folder [ico](src/ico) inside your project, import **Ico** and refer to the standardised names for icons as defined in the file [map](src/ico/map.ts). 
 
 For example:
 - Instead of using specific library names like `mdi-home` or `icn-home`, use the standardised name `home`.
@@ -40,6 +40,7 @@ In this example, `caret-right` is the standardised icon name. The actual icon is
 
 
 ## Features
+- **Growing database of Icons**: there are currently 50 icons.
 - **Unified Naming Convention**: establishes consistent names for similar icons across different libraries. An icon representing ➡️, an arrow pointing right, is uniformly named `arrow-right` regardless of the source library.
 - **Icon Mapping**: mapping of original icon names to the standardised names. This is useful for both reference and implementation purposes.
 - **Comprehensive Coverage**: includes mappings for a wide range of popular icon libraries, with continuous updates as new icons are added.
