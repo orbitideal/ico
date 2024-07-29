@@ -5,10 +5,11 @@
 
 
 ## Supported Icon Libraries
-- [🔗](https://github.com/iconoir-icons/iconoir) Iconoir
-- [🔗](https://github.com/lucide-icons/lucide) Lucide
-- [🔗](https://github.com/Templarian/MaterialDesign) Material Design Icons (MDI)
-- [🔗](https://github.com/halfmage/pixelarticons) Pixelarticons
+- [🔗](https://github.com/hugeicons/hugeicons-react) Huge Icons 🟰 "hugeicons"
+- [🔗](https://github.com/iconoir-icons/iconoir) Iconoir 🟰 "iconoir"
+- [🔗](https://github.com/lucide-icons/lucide) Lucide 🟰 "lucide"
+- [🔗](https://github.com/Templarian/MaterialDesign) Material Design Icons 🟰 "mdi"
+- [🔗](https://github.com/halfmage/pixelarticons) Pixelarticons 🟰 "pixelarticons"
 - and more to be added...
 
 
@@ -40,7 +41,7 @@ In this example, `caret-right` is the standardised icon name. The actual icon is
 
 
 ## Features
-- **Growing database of Icons**: there are currently 50 icons.
+- **Growing database of Icons**: there are currently 55 icons for each set.
 - **Unified Naming Convention**: establishes consistent names for similar icons across different libraries. An icon representing ➡️, an arrow pointing right, is uniformly named `arrow-right` regardless of the source library.
 - **Icon Mapping**: mapping of original icon names to the standardised names. This is useful for both reference and implementation purposes.
 - **Comprehensive Coverage**: includes mappings for a wide range of popular icon libraries, with continuous updates as new icons are added.
