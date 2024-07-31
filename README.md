@@ -41,7 +41,7 @@ In this example, `caret-right` is the standardised icon name. The actual icon is
 
 
 ## Features
-- **Growing database of Icons**: there are currently 65 icons for each set.
+- **Growing database of Icons**: there are currently 80 icons for each set.
 - **Unified Naming Convention**: establishes consistent names for similar icons across different libraries. An icon representing ➡️, an arrow pointing right, is uniformly named `arrow-right` regardless of the source library.
 - **Icon Mapping**: mapping of original icon names to the standardised names. This is useful for both reference and implementation purposes.
 - **Comprehensive Coverage**: includes mappings for a wide range of popular icon libraries, with continuous updates as new icons are added.
