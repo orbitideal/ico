@@ -11,7 +11,7 @@
 - [🔗](https://github.com/Templarian/MaterialDesign) Material Design Icons 🟰 "mdi"
 - [🔗](https://github.com/halfmage/pixelarticons) Pixelarticons 🟰 "pixelarticons"
 - [🔗](https://github.com/Remix-Design/RemixIcon) Remix Icon 🟰 "ri"
-- [🔗](https://github.com/tabler/tabler-icons) Tabler icons 🟰 "tabler"-  
+- [🔗](https://github.com/tabler/tabler-icons) Tabler icons 🟰 "tabler"
 - and more to be added...
 
 
